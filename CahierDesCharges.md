@@ -6,6 +6,11 @@ Projet Egzanp
 
 Lionel Médini
 
+### Rôles
+
+- Chef de projet : Lionel Médini
+- Développeurs : personne
+
 ## Scénario
 
 Il ne se passe rien dans mon projet
