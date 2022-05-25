@@ -9,8 +9,10 @@ Lionel Médini
 ### Rôles
 
 - Chef de projet : Lionel Médini
-- Développeurs : personne
-- Architecte : personne non plus
+- montage arduino : Toto
+- Développeur arduino : Titi
+- Développeur service Web : Tata
+- Développeur interface Web : Tutu
 
 ## Scénario
 
