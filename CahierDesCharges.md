@@ -10,6 +10,7 @@ Lionel Médini
 
 - Chef de projet : Lionel Médini
 - Développeurs : personne
+- Architecte : personne non plus
 
 ## Scénario
 
